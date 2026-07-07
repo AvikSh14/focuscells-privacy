@@ -1,3 +1,9 @@
+<style>
+  footer, .site-footer, .page-footer, .github-corner, #downloads {
+    display: none !important;
+  }
+</style>
+
 # Privacy Policy
 **Last updated:** June 23, 2026
 
