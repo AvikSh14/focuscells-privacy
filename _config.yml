@@ -1,0 +1,9 @@
+title: Privacy Policy
+description: "Official Privacy Policy for FocusCells app"
+theme: jekyll-theme-hacker
+show_downloads: false
+github_user: false
+github_repo: false
+github:
+  is_project_page: false
+  show_downloads: false
